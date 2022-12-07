@@ -1,5 +1,5 @@
 # Laravel Vue js CRUD Application
-Full Stack CRUD Application with Larevel api Vue js and Tailwind
+Full Stack CRUD Application with Laravel api Vue js and Tailwind
 
 ## Les technologie utiliser
 Laravel 9
